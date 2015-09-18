@@ -1,0 +1,33 @@
+EERSTE VERSIE (1.0) FAT32
+- Bird OS updater:
+NeededSpecs.xml
+Java programma dat checkt of het kan met de hardware. Daarna proberen te melden wat voor problemen er kunnen ontstaan met die specifieke update. Dan met de algemene problemen. Dat moet je accepteren en dan updaten en de status laten zien. 
+Mosa en mogelijk ook Job:
+OVERLEG!
+Design desktop eventueel helpen met visual basic als hij dat überhaupt wil. En anders alleen design.
+Vereisten:
+- Modern
+- Evnt. Transparant
+- Makkelijk vindbaar (gebruikers vriendelijk)
+- niet te veel lijken op Linux, Unix of Windows. 
+Kernel:
+Start desktop op. (Desktop.exe)
+Hdd dingen= kijken bij freedos. 
+Bootloader:
+Hdd support. 
+console.inc (voor problemen)
+Keuze:
+- Night DOS Kernel    (mocht in principe van Mercury. Maar nog een keer toestemming vragen)
+- De Bird OS kernel met desktop. 
+Bastiaan:
+-	Documentatie (help)
+-	Xml update.
+
+Voor  visual basic:
+https://www.visualstudio.com/products/free-developer-offers-vs.aspx
+
+voor github:
+https://github.com/maarten70/Bird-OS-2015 (github account vereist)
+
+voor google Group:
+https://groups.google.com/forum/#!forum/bird-os-2015 (Google Account vereist)
