@@ -1,4 +1,7 @@
 EERSTE VERSIE (1.0) FAT32
+
+Voor meer informatie zie de milestones op:https://groups.google.com/forum/#!topic/bird-os-2015/7Ffu0k31_H4
+
 - Bird OS updater:
 NeededSpecs.xml
 Java programma dat checkt of het kan met de hardware. Daarna proberen te melden wat voor problemen er kunnen ontstaan met die specifieke update. Dan met de algemene problemen. Dat moet je accepteren en dan updaten en de status laten zien. 
