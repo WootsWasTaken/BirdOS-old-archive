@@ -1,0 +1,17 @@
+20-9-2015:
+Gestart met Development Desktop build 1001.
+Om alvast een idee te creëren.
+Plaats je ideeën in de map design.
+Voor de status zie: https://groups.google.com/forum/#!forum/bird-os-2015
+
+Bijgewerkt door: maarten
+
+19-9-2015:
+
+Gestart met Desktop design.
+Iedereen ingelicht over ideeën.
+Voor meer informatie zie BirdOS_log.
+Voor vragen, antwoord en problemen/bugs zie: https://groups.google.com/forum/#!forum/bird-os-2015
+
+Bijgewerkt door: maarten
+
