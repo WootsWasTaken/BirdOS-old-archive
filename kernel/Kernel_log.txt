@@ -1,0 +1,3 @@
+Update 20-9-2015:
+
+We gaan waarschijnlijk ook de Night DOS kernel ondersteunen aangezien zij ook hun kernel ergens kwijt moeten.
