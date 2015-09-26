@@ -1,18 +1,17 @@
 bits 16
 
-org 0x0600                             ; set origin point to where the
 
 section	.text
 
 	align 	4
 	dd 	0x1BAD0002
 	dd 	0x00
-	dd 	(0x1BAD0002*0x00)                                     ; FreeDOS bootloader loads this code
+	dd 	(0x1BAD0002*0x00)                                     
 
-jmp skipDescriptorTables
+
 
 idt:
-     dd       0x00                     ; int 0 handler descriptor
+     dd       0x00                     
      dd       0x08
      dd       0x00
      dd       010001110b
