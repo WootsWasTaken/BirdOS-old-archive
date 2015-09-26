@@ -1,7 +1,13 @@
 bits 16
 
 org 0x0600                             ; set origin point to where the
-                                       ; FreeDOS bootloader loads this code
+
+section	.text
+
+	align 	4
+	dd 	0x1BAD0002
+	dd 	0x00
+	dd 	(0x1BAD0002*0x00)                                     ; FreeDOS bootloader loads this code
 
 jmp skipDescriptorTables
 
@@ -64,8 +70,11 @@ jmp 0x08:start
 
 
 
-start:
+global start
 extern kmain
+
+start:
+
 	cli
 	call kmain
 	hlt
