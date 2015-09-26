@@ -68,6 +68,7 @@ mov cr0, eax
 
 jmp 0x08:start
 
+Bits 32
 
 
 global start
