@@ -166,7 +166,7 @@ bootdrive db 0
 filename db "KERNEL  SYS"
 firstsector dw 0
 pointer dw 0
-msg db "Failed!"
+msg db "Failed To load the kernel! (int 18h)"
 
 times 510 - ($-$$) db 0
 dw 0xAA55
