@@ -69,6 +69,12 @@ jmp 0x08:start
 
 Bits 32
 
+section	.text
+
+	align 	4
+	dd 	0x1BAD0002
+	dd 	0x00
+	dd 	(0x1BAD0002*0x00)
 
 global start
 extern kmain
