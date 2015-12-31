@@ -1,10 +1,41 @@
-# Bird-OS-2015
-Bird OS 2015
+# Bird OS 2017 1.0.0a (Western Schreech-Owl)
 
 
-This is an serious project. do not place any files that has nothing to do with project.
+Welcome!
+For now this is a hobby project. It's far from finished, also it is still in a planning state. I am looking for the correct language.
+Some things might not be up-to-date.
 
-For info goto: https://groups.google.com/forum/#!forum/bird-os-2015
 
-Bird OS 2015 Team
+#Why the name Bird OS?
 
+Well, I started this project but of course it needs a name. I like my own birds too much to choose another name! :)
+
+#What's the plan?
+I am planning to make eventually a desktop enviroment. Altough this is very difficult to do, I am going to try it!!!
+Also, I hope it will support some of the .exe sorts. An Internet browser and file browser would be good too.
+
+#LICENSE:
+
+Although it has no license I would like to ask you if you can mail me when you want to use stuff.  
+email: Birdos.2015@gmail.com
+
+#About me
+
+Hi!  
+I am Maarten.  
+My age is 13 (almost 14). And I like programming, of course!  
+My country is the Netherlands.  
+
+#Special thanks
+
+
+Mosby555,  
+Mr. Poisonous,  
+The FlingOS tutorial series,  
+
+
+
+
+
+Regards,   
+Maarten
