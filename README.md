@@ -28,10 +28,11 @@ My country is the Netherlands.
 
 #Special thanks
 
-
+Mercury0x000d,  
+The FlingOS tutorial series,  
 Mosby555,  
 Mr. Poisonous,  
-The FlingOS tutorial series,  
+  
 
 
   
