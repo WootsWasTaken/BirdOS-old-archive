@@ -16,22 +16,14 @@ Also, I hope it will support some of the .exe sorts. An Internet browser and fil
 
 #LICENSE:
 
-Although it has no license I would like to ask you if you can mail me when you want to use stuff.  
+Although it has no license we still have rights that apply. Look at the License file.
 email: Birdos.2015@gmail.com
 
-#About me
-
-Hi!  
-I am Maarten.  
-My age is 13 (almost 14). And I like programming, of course!  
-My country is the Netherlands.  
 
 #Special thanks
 
 Mercury0x000d,  
-The FlingOS tutorial series,  
-Mosby555,  
-Mr. Poisonous,  
+Nidhal Abidi
   
 
 
