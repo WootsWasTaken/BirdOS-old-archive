@@ -1,9 +1,18 @@
+
+<br>
+<img height="300" width="700" src="https://github.com/FeatherCode/Bird-OS-2017-1.0.0a-Western_Schreech-Owl/blob/Development/images/BirdOSWhite.png" /><img height="90" width="150" src="https://github.com/FeatherCode/Bird-OS-2017-1.0.0a-Western_Schreech-Owl/blob/Development/images/FeatherCodenaam.png" />
+<br>
+
+
 # Bird OS 2017 1.0.0a (Western Schreech-Owl)
+
+
 
 
 Welcome!
 For now this is a hobby project. It's far from finished, also it is still in a planning state. I am looking for the correct language.
 Some things might not be up-to-date.
+
 
 
 #Why the name Bird OS?
