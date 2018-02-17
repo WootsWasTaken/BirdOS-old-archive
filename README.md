@@ -1,6 +1,6 @@
 
 <br>
-<img width="100%" src="https://feathercode.github.io/images/BirdOSlogo2.png" />
+<img src="https://feathercode.github.io/images/BirdOSlogo2.PNG" />
 <br>
 
 
