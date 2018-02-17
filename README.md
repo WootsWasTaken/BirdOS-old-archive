@@ -1,6 +1,6 @@
 
 <br>
-<img src="https://feathercode.github.io/images/BirdOSlogo2.png" />
+<img width="100%" src="https://feathercode.github.io/images/BirdOSlogo2.png" />
 <br>
 
 
@@ -12,7 +12,9 @@ BirdOS, sometimes shortened to B-OS, will be an operating system made by Feather
 # Contact
 
 Twitter: @FeatherCode_
+
 Email: Birdos.2015@gmail.com
+
 Website: feathercode.github.io
 
 
