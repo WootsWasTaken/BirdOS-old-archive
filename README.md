@@ -7,6 +7,7 @@
 # BirdOS
 
 BirdOS, sometimes shortened to B-OS, will be an operating system made by FeatherCode. 
+This is an old version of that operating system, beware that it has some flaws! 
 
 
 # Contact
