@@ -15,8 +15,8 @@ Twitter: @FeatherCode_
 
 Email: Birdos.2015@gmail.com
 
-Website: feathercode.github.io
+Website: https://feathercode.github.io
 
 
   
-- The FeatherCode team
+-The FeatherCode team
